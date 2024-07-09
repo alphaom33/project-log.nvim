@@ -18,6 +18,8 @@ function Project_Log.setup(self, partial_config)
 		print("7")
 	end , { nargs = 0 })
 
+	print("8")
+
 	return self
 end
 
