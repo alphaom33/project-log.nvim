@@ -1,1 +1,3 @@
-print("7")
+Yep = function ()
+	print("7")
+end
